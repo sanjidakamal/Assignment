@@ -1,0 +1,19 @@
+.body{
+    margin: 1em;
+}
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+}
+
+
+
+.col_grid{
+    background-color: green;
+    padding: 1em;
+    color: white;
+}
+.col_grid:nth-child(odd){
+    background-color:brown;
+}
