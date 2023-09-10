@@ -7,6 +7,7 @@ var space_cost = 60;
 var staff_cost = 70;
 
 var transportation_cost = 50;
+
 var utility_cost1 = (150+50)*(3/100);
 var utility_cost2 = (160+50)*(3/100);
 var utility_cost3 = (170+50)*(3/100);

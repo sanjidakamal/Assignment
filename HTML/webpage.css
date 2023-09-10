@@ -33,6 +33,12 @@
     padding: 1em;
     color: white;
 }
+.col_grid2{
+    background-color: none;
+    max-width:300px;
+    width:300px;
+    min-width:300px;
+}
 .coures{
     
     text-align:left;
